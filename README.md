@@ -10,10 +10,10 @@ Creating a simple calculator using php amd some css.
 
 ## Operations
 
--Addition "+"
--Subtraction "-"
--Multiplication "\*"
--Division "÷"
+- Addition "+"
+- Subtraction "-"
+- Multiplication "\*"
+- Division "÷"
 
 ### Note for division
 
